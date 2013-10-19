@@ -1,0 +1,9 @@
+## Interface: 50400
+## Title: Powernator
+## Notes: A dynamic status bar for your resources.
+## Author: Daniel Samuels
+## Version: 0.1
+
+embeds.xml
+
+Core.lua
