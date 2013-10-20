@@ -2,6 +2,7 @@
 ## Title: Powernator
 ## Notes: A dynamic status bar for your resources.
 ## Author: Daniel Samuels
+## SavedVariables: PowernatorDB
 ## Version: 0.1
 
 embeds.xml
